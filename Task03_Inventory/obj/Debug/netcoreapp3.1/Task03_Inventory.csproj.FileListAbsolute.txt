@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.exe
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.deps.json
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.runtimeconfig.json
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\bin\Debug\netcoreapp3.1\Task03_Inventory.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Prepatation_Retake\Task03_Inventory\obj\Debug\netcoreapp3.1\Task03_Inventory.genruntimeconfig.cache
